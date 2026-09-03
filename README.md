@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi, I'm hpp 👋
 
+> Learning programming, Linux and building things.
 <!--
 **hype-hpp/hype-hpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
