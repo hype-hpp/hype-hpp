@@ -1,4 +1,4 @@
-# Hi, I'm hpp 👋
+# Hello
 
 > Learning programming, Linux and building things.
 <!--
